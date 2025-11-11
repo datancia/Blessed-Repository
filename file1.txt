@@ -1,3 +1,5 @@
 Aquest es un fitxer nou
 Creat per comprovar interferències entre fitxers. Branch1 ha modificta la línia 2 afegint-hi aquest text.
 Faig moltes línies
+Esborrada la línia 2 a la branch2
+
