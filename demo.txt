@@ -1,0 +1,8 @@
+This is an example of how git diff works!
+Here is a new line of text!
+New line in line 3
+Git diff is my favorite command!
+Here is a new line of text!
+New line in line 5
+New line added!
+New line in line 6
